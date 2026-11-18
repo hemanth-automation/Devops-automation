@@ -9,7 +9,7 @@ I am Hemanth Kumar, an aspiring DevOps Engineer building practical skills throug
 ## Learning Roadmap
 
 - [ ] Git and GitHub fundamentals
-- [ ] Linux administration
+- [ ] Linux commands
 - [ ] Docker and containerization
 - [ ] Jenkins and CI/CD
 - [ ] AWS cloud fundamentals
@@ -18,7 +18,7 @@ I am Hemanth Kumar, an aspiring DevOps Engineer building practical skills throug
 
 ## Technologies
 
-- Linux
+- Linux commands
 - Git and GitHub
 - Docker
 - Jenkins
